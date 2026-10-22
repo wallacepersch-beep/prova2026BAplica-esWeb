@@ -120,3 +120,24 @@ img {
     border: 4px solid;
     border-radius: 10px;
 }
+/* Tabela de reservas */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+    background-color: #fff;
+    border-radius: 6px;
+    overflow: hidden;
+}
+
+th,
+td {
+    padding: 10px 14px;
+    text-align: left;
+    border-bottom: 1px solid #eee;
+}
+
+th {
+    background-color: #edc740;
+    color: #333;
+}
